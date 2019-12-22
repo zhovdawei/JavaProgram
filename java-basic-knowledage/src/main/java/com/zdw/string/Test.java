@@ -7,7 +7,6 @@ public class Test {
         this.name = name;
     }
 
-
     public static void main(String[] args) {
         Test test = new Test("david"+(""+("")));
         System.out.println(test.name);

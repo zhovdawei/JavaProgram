@@ -30,19 +30,15 @@
         <project.module.version>${project.version}</project.module.version>
     </properties>
 
-<!--    <modules>
-        <module>java-web-1</module>
-    </modules>
-
     <dependencyManagement>
         <dependencies>
             <dependency>
-                <groupId>com.david.zhou</groupId>
-                <artifactId>java-web-1</artifactId>
+                <groupId>com.zdw</groupId>
+                <artifactId>java-basic-knowledage</artifactId>
                 <version>${project.version}</version>
             </dependency>
         </dependencies>
-    </dependencyManagement>-->
+    </dependencyManagement>
 
     <!-- 打包 -->
     <build>
