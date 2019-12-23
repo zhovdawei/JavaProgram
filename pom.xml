@@ -9,6 +9,7 @@
     <version>1.0-SNAPSHOT</version>
     <modules>
         <module>java-basic-knowledage</module>
+        <module>java-vm-hotspot</module>
     </modules>
     <name>JavaProgram</name>
     <packaging>pom</packaging>
@@ -35,7 +36,10 @@
             <dependency>
                 <groupId>com.zdw</groupId>
                 <artifactId>java-basic-knowledage</artifactId>
-                <version>${project.version}</version>
+            </dependency>
+            <dependency>
+                <groupId>com.zdw</groupId>
+                <artifactId>java-vm-hotspot</artifactId>
             </dependency>
         </dependencies>
     </dependencyManagement>
