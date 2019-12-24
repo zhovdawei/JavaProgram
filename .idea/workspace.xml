@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="62c9697f-133b-4800-a04a-e1429011a565" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/.name" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/java-basic-knowledage/java-basic-knowledage.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/java-program.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/java-vm-hotspot/java-vm-hotspot.iml" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectId" id="1VQu1PNTKtZUOI3Dxpr9fb9VcNX" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="ServiceViewManager">
+    <option name="viewStates">
+      <list>
+        <serviceView>
+          <treeState>
+            <expand />
+            <select />
+          </treeState>
+        </serviceView>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="62c9697f-133b-4800-a04a-e1429011a565" name="Default Changelist" comment="" />
+      <created>1577197424396</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1577197424396</updated>
+      <workItem from="1577197435019" duration="248000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="239" y="453" key="Vcs.Push.Dialog.v2" timestamp="1577197679816">
+      <screen x="0" y="0" width="2560" height="1440" />
+    </state>
+    <state x="239" y="453" key="Vcs.Push.Dialog.v2/2560.360.1920.1080/0.0.2560.1440@0.0.2560.1440" timestamp="1577197679816" />
+    <state x="327" y="544" key="com.intellij.ide.util.TipDialog" timestamp="1577197436072">
+      <screen x="0" y="0" width="2560" height="1440" />
+    </state>
+    <state x="327" y="544" key="com.intellij.ide.util.TipDialog/2560.360.1920.1080/0.0.2560.1440@0.0.2560.1440" timestamp="1577197436072" />
+    <state x="339" y="511" key="git4idea.merge.GitPullDialog" timestamp="1577197641519">
+      <screen x="0" y="0" width="2560" height="1440" />
+    </state>
+    <state x="339" y="511" key="git4idea.merge.GitPullDialog/2560.360.1920.1080/0.0.2560.1440@0.0.2560.1440" timestamp="1577197641519" />
+  </component>
+</project>
